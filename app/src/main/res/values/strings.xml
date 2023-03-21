@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Question3</string>
+    <string name="Name">Name<font color='#FF0000'>*</font></string>
+    <string name="Address">Address<font color='#FF0000'>*</font></string>
+    <string name="Email">Email<font color='#FF0000'>*</font></string>
+    <string name="reg">Register now while seats are available!</string>
+    <string name="title">  Title</string>
+    <string name="first">    First</string>
+    <string name="last">    Last</string>
+    <string name="stree">Street Address</string>
+    <string name="addr">Address Line2</string>
+
+</resources>
